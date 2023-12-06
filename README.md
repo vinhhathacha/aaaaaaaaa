@@ -1,5 +1,10 @@
 # aaaaaaaaa
 aaaa
+
+```php
+sudo -i
+```
+
 # Guide SystemD Avail (Goldberg)
 ### 1. Register for validators Avail:
 [Click this link](https://docs.google.com/forms/d/e/1FAIpQLScpwE8yuUkqJVQrVpLRqua5p8oA8DGUBYho9Rwjm1bmG8LebQ/viewform?ref=blog.availproject.org)
