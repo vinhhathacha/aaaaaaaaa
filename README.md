@@ -17,3 +17,4 @@ sudo apt update && sudo apt upgrade -y
 **Step 2: Install packages**
 ```php
 sudo apt install make clang pkg-config libssl-dev build-essential git screen protobuf-compiler -y
+```
